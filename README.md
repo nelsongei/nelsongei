@@ -23,7 +23,6 @@
 - *Machine Learning*: ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
-- *Cloud*: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-green?style=plastic&logo=Firebase&logoColor=white)
+- *Cloud*: ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
