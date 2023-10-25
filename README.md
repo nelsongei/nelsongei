@@ -2,7 +2,7 @@
 
 - *Languages*: ![PHP](https://img.shields.io/badge/PHP-00599C.svg?&style=plastic&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=ffffff&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 
