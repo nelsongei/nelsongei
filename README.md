@@ -23,7 +23,7 @@
 - *Machine Learning*: ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
-- *Cloud*: ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+- *Cloud*: ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
