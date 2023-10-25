@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![Profile Banner](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
 
 - *Languages*: ![PHP](https://img.shields.io/badge/PHP-00599C.svg?&style=plastic&logo=php&logoColor=white)
