@@ -12,6 +12,7 @@
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
 
 - *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=plastic&logo=laravel&logoColor=f9322c)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-092E20?style=plastic&logo=express&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white) 
