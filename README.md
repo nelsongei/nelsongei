@@ -13,7 +13,7 @@
 
 - *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=plastic&logo=laravel&logoColor=f9322c)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-092E20?style=plastic&logo=express&logoColor=white) 
 
 - *Database*: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=mongodb&logoColor=white) 
