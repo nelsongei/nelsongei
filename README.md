@@ -11,7 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
 
-- *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-4FC08D?style=plastic&logo=laravel&logoColor=white)
+- *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=plastic&logo=laravel&logoColor=f9322c)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) 
 
