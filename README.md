@@ -37,5 +37,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
 
-
-![Profile Banner](https://wakatime.com/share/@nelsongei/132615f2-17cc-44c8-887a-cd61f4e4cd53.svg)
