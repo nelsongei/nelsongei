@@ -10,6 +10,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
+![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
 
 - *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=plastic&logo=laravel&logoColor=f9322c)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white)
