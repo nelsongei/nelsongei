@@ -1,5 +1,6 @@
 ![Profile Banner](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
 [![wakatime](https://wakatime.com/badge/user/d40f2b01-ba71-4ead-8dea-b50f6b3eb33f.svg)](https://wakatime.com/@d40f2b01-ba71-4ead-8dea-b50f6b3eb33f)
+![](https://komarev.com/ghpvc/?username=nelsongei)
 - *Languages*: ![PHP](https://img.shields.io/badge/PHP-00599C.svg?&style=plastic&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=ffffff&labelColor=%23F7DF1C&color=%23FFCE5A)
