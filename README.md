@@ -19,6 +19,10 @@
 ![Express](https://img.shields.io/badge/Express-092E20?style=plastic&logo=express&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white) 
 
+
+- *Mobile*: ![Dart](https://img.shields.io/badge/DART-1a4399?style=plastic&logo=dart&logoColor=white)
+
+
 - *Database*: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
