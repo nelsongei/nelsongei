@@ -21,6 +21,7 @@
 
 
 - *Mobile*: ![Dart](https://img.shields.io/badge/DART-1a4399?style=plastic&logo=dart&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/FLUTTER-59c7f8?style=plastic&logo=flutter&logoColor=white)
 
 
 - *Database*: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
