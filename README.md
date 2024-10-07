@@ -35,6 +35,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-apacheairflow-017cee?style=plastic&logo=apacheairflow&logoColor=white)
 
 - *Version Control*:![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
