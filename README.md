@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
-![NUXTJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![NUXTJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=plastic&logo=nuxtdotjs&logoColor=white)
 ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
 
 
