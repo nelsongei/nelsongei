@@ -29,6 +29,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 
+- *Data Engineering*: ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF6F00?style=plastic&logo=apachespark&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-ffffff?style=plastic&logo=apachekafka&logoColor=black)
+
 - *Machine Learning*: ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
