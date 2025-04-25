@@ -31,6 +31,7 @@
 
 - *Data Engineering*: ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF6F00?style=plastic&logo=apachespark&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-ffffff?style=plastic&logo=apachekafka&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-3772ff?style=plastic&logo=apacheairflow&logoColor=white)
 
 - *Machine Learning*: ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue.svg?style=plastic&logo=scikit-learn&logoColor=white)
