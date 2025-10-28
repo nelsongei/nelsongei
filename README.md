@@ -12,6 +12,7 @@
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
 ![NUXTJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=plastic&logo=nuxtdotjs&logoColor=white)
 ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
+![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 - *Backend*: ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=plastic&logo=laravel&logoColor=f9322c)
