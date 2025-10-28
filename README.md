@@ -18,7 +18,8 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-092E20?style=plastic&logo=express&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=plastic&logo=Flask&logoColor=white) 
 
 
 - *Mobile*: ![Dart](https://img.shields.io/badge/DART-1a4399?style=plastic&logo=dart&logoColor=white)
